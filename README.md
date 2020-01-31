@@ -24,10 +24,8 @@ Dins del directori del repositori, executar:
     bundle install
 ```
 
-Per fer proves:
+Per fer proves en local:
 
 ```bash
     bundle exec jekyll serve     # connectar-se a http://localhost:4000
 ```
-
-La versió generada estàticament de la web es troba sota el directori `_site`.
