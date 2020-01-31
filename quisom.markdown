@@ -4,10 +4,13 @@ title: Qui som
 permalink: /qui-som/
 ---
 
-Actualment els membres de la secció sindical som:
+Membres del comitè:
 
-- Àngel Aguilera (Delegat)
-- José Enrique Gómez (Delegat de prevenció de riscos laborals)
+- José Enrique Gómez
 - Francisco Morillas
 - Carme Tallón
 - Oriol Teixidó
+
+Delegats:
+
+- Àngel Aguilera
