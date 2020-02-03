@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Secció sindical CGT PAS-L UPC
+title: CGT PAS-L UPC
 email: cgt.seccio.sindical@upc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Web de la secció sindical de la CGT per al Personal Laboral de la UPC.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -31,6 +31,12 @@ github_username:
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - blog.html
+  - quisom.md
+  - recursos.md
+  - contacte.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
