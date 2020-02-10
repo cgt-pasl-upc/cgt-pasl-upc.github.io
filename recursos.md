@@ -4,14 +4,18 @@ title: Recursos
 permalink: /recursos/
 ---
 
-## Relacions laborals
+## Àmbit UPC
 
-- [6è Conveni col·lectiu del personal laboral de les universitats públiques catalanes - RESOLUCIÓ EMO/3093/2015, de 23 de desembre](https://dogc.gencat.cat/ca/pdogc_canals_interns/pdogc_resultats_fitxa/?action=fitxa&documentId=713827)
+- [Comitè d'empresa PAS-L UPC](https://comitepasl.upc.edu/ca)
 
-## Altres webs
+## Més de CGT
+
+### Universitats
 
 - [CGT UAB](https://cgtuab.wordpress.com/)
 - [CGT UB](http://www.ub.edu/cgt/)
+
+### General
 
 - [CGT Ensenyament](http://cgtense.pangea.org/)
 - [CGT Federación de enseñanza](http://www.fecgt.org/)
