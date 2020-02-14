@@ -86,3 +86,12 @@ Després de la capçalera va tot el contingut de la pàgina.
 
 - A continuació de la capçalera, escriure el contingut del post.
 
+## Obtenir l'informe de tasques del Trello
+
+En primer lloc caldrà obtenir l'exportació del fitxer JSON mitjançant l'adreça https://trello.com/b/QyEgSPJt.json
+
+```
+virtualenv -p python3 .env
+source .env/bin/activate
+cat QyEgSPJt.json | bin/trello.py <DATA_INICI> <DATA_FINAL> 
+```
