@@ -20,3 +20,6 @@ permalink: /recursos/
 - [CGT Ensenyament](http://cgtense.pangea.org/)
 - [CGT Federación de enseñanza](http://www.fecgt.org/)
 - [CGT Catalunya](http://cgtcatalunya.cat/)
+
+- [LOLS: Ley orgánica de libertad sindical](https://www.boe.es/eli/es/lo/1985/08/02/11/con)
+
