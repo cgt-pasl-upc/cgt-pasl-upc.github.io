@@ -90,7 +90,7 @@ Després de la capçalera va tot el contingut de la pàgina.
 
 En primer lloc caldrà obtenir l'exportació del fitxer JSON mitjançant l'adreça https://trello.com/b/QyEgSPJt.json
 
-```
+```bash
 virtualenv -p python3 .env
 source .env/bin/activate
 cat QyEgSPJt.json | bin/trello.py <DATA_INICI> <DATA_FINAL> 
