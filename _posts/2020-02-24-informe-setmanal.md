@@ -32,10 +32,10 @@ nou model de formació del PAS. Tenia el següent ordre del dia:
 ## Assemblea del PAS (20/02/2020)
 
 En aquesta assemblea es va informar els treballadors de la situació
-actual quant a la retallada del dret de reducció de jornada per dedicació
-al traspàs d'informació de cara a la jubilació. Un dret que
-teniem tot el PAS, segons acord del Consell de Govern, i que l'actual
-gerent ha decidit deixar d'aplicar de manera unilateral.
+actual quant a la retallada del dret de reducció de jornada als majors
+de 60 anys per dedicació al traspàs d'informació de cara a la jubilació.
+Un dret que teniem tot el PAS, segons acord del Consell de Govern,
+i que l'actual gerent ha decidit deixar d'aplicar.
 
 A l'assemblea es van debatre i acordar diferents accions, tant legals
 com reivindicatives, que es duran a terme a partir d'ara
