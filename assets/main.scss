@@ -6,3 +6,8 @@ $base-font-size: 18px;
 $content-width: 960px;
 
 @import "minima";
+
+h2.p-name {
+    font-weight: bolder;
+    font-size: 240%;
+}
