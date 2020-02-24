@@ -1,0 +1,42 @@
+---
+layout: post
+title: Informe setmanal 17/02/2020
+author: Angel
+categories: agenda
+---
+
+## Reunió de la Comissió negociadora PAS-L (17/02/2020)
+
+Ordre del dia:
+
+1. Nomenament del President i del secretari de la sessió
+2. Aprovació de l’acta de la mesa negociadora anterior (s’adjunta l’acta)
+3. Acord sobre l’aplicació del Decret Llei d’increments retributius de
+   l’any 2020 (en aquests moments acord de govern de 11/1/20 pendent de
+   publicació)
+4. Calendari i mètode de treball negociació nou Conveni col·lectiu.
+5. Informació sobre la publicació de l’acord sobre la jornada laboral de
+   la Comissió Negociadora de 6 de novembre de 2018
+6. Proposta de CCOO sobre jubilacions i renovació de la plantilla de
+   PAS-L de les universitats públiques catalanes
+7. Torn obert de paraula
+
+## Reunió conjunta CEPASL + JPASF + Gerència (18/02/2020)
+
+Aquesta reunió tenia com a objectiu començar a treballar el
+nou model de formació del PAS. Tenia el següent ordre del dia:
+
+1. Establir la metodologia de treball, membres i calendari.
+1. Delimitar l'àmbit de Treball.
+
+## Assemblea del PAS (20/02/2020)
+
+En aquesta assemblea es va informar els treballadors de la situació
+actual quant a la retallada del dret de reducció de jornada per dedicació
+al traspàs d'informació de cara a la jubilació. Un dret que
+teniem tot el PAS, segons acord del Consell de Govern, i que l'actual
+gerent ha decidit deixar d'aplicar de manera unilateral.
+
+A l'assemblea es van debatre i acordar diferents accions, tant legals
+com reivindicatives, que es duran a terme a partir d'ara
+per tal de reclamar el retorn d'aquest dret.

@@ -1,0 +1,26 @@
+---
+layout: post
+title: Informe setmanal 17/02/2020
+author: Angel
+categories: agenda
+---
+
+## Plenari del CEPAS-L (14/02/2020)
+
+Aquesta setmana hem preparat la reunió del plenari del
+Comitè del PAS-L, que s'ha celebrat el 14 de febrer amb
+el següent ordre del dia:
+
+1. Aprovació d’actes anteriors
+1. Informacions
+1. Estabilització
+1. Formació
+1. Tempus
+1. Procediment per l’assignació de treballs de categoria superior
+1. Concursos
+1. Torn obert de paraula
+
+Quant al punt de Formació, es va debatre la proposta
+que Gerència i es va decideix no acceptar la proposta de gerència
+de crear una comissió de treball per definir el nou model de formació.
+Es decideix dur a terme la negociació en reunions de plenari amb Gerència.

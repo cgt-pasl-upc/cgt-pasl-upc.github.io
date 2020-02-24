@@ -1,0 +1,52 @@
+---
+layout: post
+title: Informe setmanal 10/02/2020
+author: Angel
+categories: agenda
+---
+
+## Reunió conjunta Gerència + Junta PASF + Comitè PASL (6/2/2020)
+
+Durant aquesta setmana vam preparar la reunió conjunta que amb
+Gerència, conjuntament amb la Junta de PAS-F, que va tenir lloc
+el dia 6 de febrer amb el següent ordre del dia:
+
+> 1. Aprovació de l’acta de la sessió anterior
+> 1. Modificació de la RLT
+> 1. Calendari d’estabilització i estat del procés
+> 1. Calendari de formació
+> 1. Torn obert d’intervencions
+
+Quant al punt de Formació, Gerència proposa replantejar
+el model de formació del PAS, i basar la formació en un conjunt
+d'itineraris que proporcionarien competències, que seria el que
+es valoraria en els concursos.
+
+Gerència proposa formar una comissió de treball amb representants
+tant de la part social (un representant per secció sindical) com
+de la part pública, que es reunirien quinzenalment per tal de definir
+el nou model de formació del PAS.
+
+## Reunió conjunta Gerència + Comitè PASL (6/2/2020)
+
+Ordre del dia:
+
+> 1. Aprovació, si s’escau, de l'acta de la sessió anterior (19/12/2019)
+> 1. Annex de l’acord de desenvolupament de la disposició transitòria
+>   dissetena del Conveni Col·lectiu (estabilització)
+> 1. Torn obert d’intervencions
+
+A la reunió, la Gerència va proporcionar al Comitè una llista
+provisional de les places que entrarien dins el procés d'estabilització,
+llista que el Comitè hauria de ratificar com a molt tard el 17 de
+febrer (data proposada per Gerència).
+
+Per tal de poder verificar que a la llista de places a estabilitzar és
+correcta, des de la secció de CGT vam sol·licitar a Gerència la següent
+informació:
+
+- llista del personal laboral no fix, amb la data d'entrada a la UPC
+- criteris utilitzats per la Gerència en l'elaboració de la llista de
+  places a estabilitzar
+
+En data d'avui, la Gerència encara no ens ha proporcionat aquesta informació.
