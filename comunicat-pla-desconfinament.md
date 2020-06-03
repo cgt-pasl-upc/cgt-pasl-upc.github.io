@@ -1,5 +1,25 @@
 ## Posicionament de la Secció Sindical PAS-L de la CGT Pla de desconfinament i reactivació progressiva de l’activitat (Acord CG/2020/03/03)
 
+> ### Actualització 04/06/2020
+>
+>Com a conseqüència del correu que vam enviar el passat dimarts 19 de maig, on indicàvem
+>que «si teniu a càrrec menors de 12 anys, persones dependents o persones amb dificultats especials 
+>d’edat avançada cal que informeu al Servei de Personal», gerència es va posar en contacte amb 
+>nosaltres.
+>
+>El Pla de desconfinament aprovat al Consell de Govern diu que, en aquests casos, cal que els 
+>treballadors, «de forma motivada ho donin a conèixer al seu o la seva cap». I per tant no indica 
+>que calgui informar al Servei de Personal.
+>
+>Nosaltres creiem que, si fos necessari, el treballador ha d’informar a l’empresa sobre la seva 
+>situació personal, i no al seu cap. Els caps han de conèixer la situació de les persones al seu 
+>càrrec, però no els motius (tant si són mèdics com si es tracta de situacions particulars de caire 
+>personal).
+>
+>Així és com funciona tota la gestió d’informació de caire personal a la universitat: situacions de 
+>dependència, permisos per defunció, informes de baixa mèdica, etc. És per aquest motiu que vam 
+>donar per suposat que aquesta és la manera d’informar.
+
 Des de fa setmanes tant el Comitè d'Empresa PAS-L com la Junta PAS-F hem 
 estat negociant amb la gerència de la Universitat “Pla de desconfinament i reactivació 
 progressiva de l'activitat”. 
@@ -58,3 +78,4 @@ En el cas que, en un mateix dia, es realitzi una part de la jornada presencial i
 Més enllà d'aquest acord us recordem que al Comitè d'Empresa existeixen els [delegats de prevenció](https://comitepasl.upc.edu/ca/salut-laboral/salut-laboral-2) que formen part del [Comitè de Seguretat i Salut](https://www.upc.edu/prevencio/ca/informacio-general/comite-de-seguretat-i-salut) que vetllaran per què les mesures de seguretat siguin les adequades.
 
 Evidentment, per qualsevol consulta us podeu [posar en contacte](/contacta/) amb nosaltres.
+
