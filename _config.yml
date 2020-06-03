@@ -41,6 +41,9 @@ header_pages:
 minima:
   date_format: "%-d/%m/%Y"
 
+kramdown:
+    auto_ids: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
