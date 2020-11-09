@@ -80,18 +80,19 @@ Després de la capçalera va tot el contingut de la pàgina.
     title: Títol del post
     date: 2020-01-13 13:40:39 +0100    # opcional
     author: Pepito                     # opcional
-    categories: etiqueta1 etiqueta2    # opcional (assigna tags al post)
+    categories: etiqueta1 etiqueta2    # opcional. Exemples: 'activitats', 'portada'.
     ---
     ```
 
 - A continuació de la capçalera, escriure el contingut del post.
-- Si el post és molt llarg, es pot generar un «fragment» del post afegint la 
-  cadena `<!--more-->`, en qualsevol punt del contingut. El text que segueix 
+- Si el post és molt llarg, es pot generar un «fragment» del post afegint la
+  cadena `<!--more-->`, en qualsevol punt del contingut. El text que segueix
   serà reemplaçat per un l'enllaç «Segueix llegint...», que enllaçarà al post sencer.
 
-## Per tal que un post es vegi a la portada
+## Categories dels posts
 
-Afegiu el tag `portada` si voleu que un post es mostri a la portada del web.
+* Indiqueu la categoria `portada` si voleu que un post es mostri a la portada del web.
+* Indiqueu la categoria `activitats` si voleu que un post aparegui al registre d'activitats setmanals.
 
 ## Obtenir l'informe de tasques del Trello
 
