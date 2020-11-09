@@ -8,11 +8,35 @@ list_title: Activitats
 
 <h1>Secció sindical CGT del CEPAS-L UPC</h1>
 
-{% capture my_include %}
-{% include_relative resposta-instruccio-gerencia-20201026.md %}
+{% assign posts_portada = site.posts | where: 'categories', 'portada' %}
+{% for post in posts_portada %}
+    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-{% include_relative comunicat-pla-desconfinament.md %}
-{% endcapture %}
-{{ my_include | markdownify }}
+    <header class="post-header">
+      <h2 class="post-title p-name" itemprop="name headline">{{ post.title | escape }}</h2>
+      <p class="post-meta">
+        <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {{ post.date | date: date_format }}
+        </time>
+        {%- if post.author -%}
+          • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ post.author }}</span></span>
+        {%- endif -%}</p>
+    </header>
 
-<hr>
+    <div class="post-content e-content" itemprop="articleBody">
+      {{ post.excerpt }}
+      {% if post.excerpt != post.content %}
+        <a href="{{ site.baseurl }}{{ post.url }}">Segueix llegint...</a>
+      {% endif %}
+    </div>
+
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+    <div style="text-align:center; margin: 1.5em">
+      <img src="/assets/img/estrella.svg">
+    </div>
+
+  </article>
+
+{% endfor %}

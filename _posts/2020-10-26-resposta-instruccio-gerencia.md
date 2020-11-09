@@ -1,10 +1,17 @@
-## Resposta a la instrucció de gerència al PAS del 26/10
+---
+layout: post
+title: Resposta a la instrucció de gerència al PAS del 26/10
+author: Angel
+categories: portada
+---
 
 El passat divendres 23 d'octubre el Comitè d’Empresa i la Junta ens vam reunir amb la gerència per parlar de l’ampliació de les mesures d'adaptació de jornada i mesures de conciliació. 
 
 Des de la CGT, donat que ens trobem en el marc d'una emergència sanitària on tant les autoritats sanitàries com polítiques proposen limitar la mobilitat amb l'objectiu d'intentar controlar la corba de contagis, vam entendre que calia defensar com a eix principal la no presencialitat, no només com a eina de protecció dels treballadors i les treballadores, sinó també del seu entorn personal i de la societat en el seu conjunt.
 
 Tot i que les negociacions prèvies no auguraven res de bo, vam considerar que era positiu que l’empresa volgués arribar a un acord amb els representants dels treballadors sobre les condicions de treball en aquests moments tan difícils per a tota la societat. Malauradament, més enllà de la negociació, l’acord no va ser possible. 
+
+<!--more-->
 
 Des de la CGT creiem que les línies vermelles que marca gerència no ajuden a fer que les negociacions finalitzin en uns termes raonables. Opinem que l'única línia vermella hauria de ser aquella que prioritza la salut de treballadores i treballadors, evitant riscos evitables, tal com indica la [llei de prevenció de riscos laborals](https://portaljuridic.gencat.cat/ca/pjur_ocults/pjur_resultats_fitxa/?documentId=555985&action=fitxa):
 

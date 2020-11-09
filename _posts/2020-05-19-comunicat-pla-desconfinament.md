@@ -1,3 +1,10 @@
+---
+layout: post
+title: Posicionament respecte al Pla de desconfinament
+author: Angel
+categories:
+---
+
 ## Posicionament de la Secció Sindical PAS-L de la CGT Pla de desconfinament i reactivació progressiva de l’activitat (Acord CG/2020/03/03)
 
 > ### Actualització 04/06/2020
@@ -27,6 +34,8 @@ progressiva de l'activitat”.
 ### Per què no estem d’acord amb aquest pla de desconfinament
 
 No estem d'acord amb les mesures de desconfinament que proposa la gerència de la UPC perquè creiem que la prioritat hauria de ser no posar en risc a ningú per sobre d'oferir els serveis de forma presencial. El més important és garantir la seguretat, tant els treballadors i treballadores de la UPC com del conjunt de la societat. En aquest sentit, la UPC hauria de ser un referent en la protecció de la seva comunitat: estudiants, PDI i PAS.
+
+<!--more-->
 
 Després de dos mesos confinats, treballant de manera no presencial, hem aconseguit mantenir l’activitat. No oblidem que la pràctica totalitat dels serveis s’han seguit oferint. Per tant, quan el Pla parla de reactivació d’un servei, el que s’està dient en realitat és que s’activa la presencialitat del servei.
 

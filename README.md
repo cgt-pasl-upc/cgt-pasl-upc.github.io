@@ -85,6 +85,13 @@ Després de la capçalera va tot el contingut de la pàgina.
     ```
 
 - A continuació de la capçalera, escriure el contingut del post.
+- Si el post és molt llarg, es pot generar un «fragment» del post afegint la 
+  cadena `<!--more-->`, en qualsevol punt del contingut. El text que segueix 
+  serà reemplaçat per un l'enllaç «Segueix llegint...», que enllaçarà al post sencer.
+
+## Per tal que un post es vegi a la portada
+
+Afegiu el tag `portada` si voleu que un post es mostri a la portada del web.
 
 ## Obtenir l'informe de tasques del Trello
 
