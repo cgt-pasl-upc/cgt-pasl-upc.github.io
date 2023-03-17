@@ -13,8 +13,8 @@ sudo apt install curl
 \curl -sSL https://get.rvm.io | bash -s stable
 source $HOME/.rvm/scripts/rvm
 bash --login            # o bé tancar la sessió i fer login novament
-rvm install 2.7.0       # pot demanar password per instal·lar dependències de compilació
-rvm use 2.7.0
+rvm install 3.1.2       # pot demanar password per instal·lar dependències de compilació
+rvm use 3.1.2
 gem install bundler jekyll
 ```
 
