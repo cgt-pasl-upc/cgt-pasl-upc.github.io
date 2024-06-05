@@ -7,8 +7,9 @@ Aquesta web està generada amb [Jekyll](https://jekyllrb.com).
 Instal·lar Ruby i Jekyll (entorn de desenvolupament local a l'usuari mitjançant [RVM](https://rvm.io/)):
 
 ```bash
-gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys \
-        409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+gpg --keyserver hkp://keyserver.ubuntu.com --recv-keys \
+409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+
 sudo apt install curl
 \curl -sSL https://get.rvm.io | bash -s stable
 source $HOME/.rvm/scripts/rvm
@@ -101,5 +102,5 @@ En primer lloc caldrà obtenir l'exportació del fitxer JSON mitjançant l'adre�
 ```bash
 virtualenv -p python3 .env
 source .env/bin/activate
-cat QyEgSPJt.json | bin/trello.py <DATA_INICI> <DATA_FINAL> 
+cat QyEgSPJt.json | bin/trello.py <DATA_INICI> <DATA_FINAL>
 ```
