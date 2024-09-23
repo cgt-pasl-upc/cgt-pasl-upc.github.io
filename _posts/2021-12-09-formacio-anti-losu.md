@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: nopost
 title: LOSU no!
 author: Angel
 categories: portada
