@@ -1,5 +1,5 @@
 ---
-layout: nopost
+layout: novigent # nopost
 title: LOSU no!
 author: Angel
 categories: 
