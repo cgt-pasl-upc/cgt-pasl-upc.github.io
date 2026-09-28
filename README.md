@@ -30,6 +30,7 @@ Per fer proves en local:
 ```bash
     bundle exec jekyll serve     # connectar-se a http://localhost:4000
 ```
+
 ## Com modificar la web
 
 Per modificar la web, la manera més senzilla és modificar directament el fitxer
@@ -52,7 +53,7 @@ Tots els fitxers de pàgines (independentment de la sintaxi utilitzada)
 han de tenir una capçalera Jekyll delimitada per tres guionets `---` al
 principi i al final, per exemple:
 
-```
+```txt
 ---
 title: Contacta        # títol de la pàgina
 layout: page           # plantilla per generar la pàgina
@@ -75,7 +76,7 @@ Després de la capçalera va tot el contingut de la pàgina.
   associada a la nova entrada).
 - Afegir la següent capçalera al fitxer:
 
-    ```
+    ```txt
     ---
     layout: post
     title: Títol del post
@@ -92,8 +93,8 @@ Després de la capçalera va tot el contingut de la pàgina.
 
 ## Categories dels posts
 
-* Indiqueu la categoria `portada` si voleu que un post es mostri a la portada del web.
-* Indiqueu la categoria `activitats` si voleu que un post aparegui al registre d'activitats setmanals.
+- Indiqueu la categoria `portada` si voleu que un post es mostri a la portada del web.
+- Indiqueu la categoria `activitats` si voleu que un post aparegui al registre d'activitats setmanals.
 
 ## Obtenir l'informe de tasques del Trello
 
