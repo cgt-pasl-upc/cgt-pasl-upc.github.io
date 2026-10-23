@@ -6,7 +6,7 @@ permalink: /dedicacio/
 
 Aquesta taula mostra un resum de les hores de dedicació setmanal als diferents
 
-| **Setmana** | **Reunions Gerència** | **Reunions CEPASL** | **Feina sindical[^1]** |
+| **Setmana** | **Reunions Gerència** | **Reunions CEPTGASL** | **Feina sindical[^1]** |
 | :---: | ---: | ---: | ---: | ---: |
 | 24/02/2020 |  a |  b |  c |
 
